@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false, // 3shan asheel el debug
+      debugShowCheckedModeBanner: false,
       home: HomeLayout(), // LoginScreen
 
     );
